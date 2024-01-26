@@ -1,0 +1,2 @@
+streamlit
+fawkes @ git+https://github.com/owner/repo@main
