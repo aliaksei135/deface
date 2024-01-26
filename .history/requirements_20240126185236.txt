@@ -1,2 +1,0 @@
-streamlit
-fawkes @ git+https://github.com/logasja/fawkes.git@master
